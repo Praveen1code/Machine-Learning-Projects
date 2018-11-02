@@ -13,5 +13,6 @@ It contains only numerical input variables which are the result of a PCA transfo
 ### Sampling Mehtods
 
 1. Under Sampling.
-2. Onver Sampling (Smote).
+2. Over Sampling (Smote).
+
 
