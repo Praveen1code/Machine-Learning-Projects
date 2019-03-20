@@ -22,7 +22,7 @@ The intended application of the project is for use in applying visibility weight
 * test.csv: A testing training dataset with all the same attributes at train.csv without the label.
 
 
-* Download the data set: [Datasets from Kaggle](https://www.kaggle.com/c/fake-news/data)
+* Download the data set:  
 
 
 
