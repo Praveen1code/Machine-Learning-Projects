@@ -18,7 +18,7 @@ The labeled training data set consists of 25,000 IMDB movie reviews. There is al
 - review - Text of the review
 
 
-## Key Words:
+## Key Words
 
  - Pytorch
  - Deep Learning
