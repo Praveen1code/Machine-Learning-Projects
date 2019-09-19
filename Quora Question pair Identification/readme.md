@@ -20,5 +20,17 @@ long term.
 
 Identify which questions asked on Quora are duplicates of questions
 that have already been asked. - This could be useful to instantly provide answers to questions that
-have already been answered. - The task is to predicting whether a pair of questions are
+have already been answered. - The task is to predict whether a pair of questions are
 duplicates or not.
+
+
+## Data:
+
+
+## Data Description:
+
+Data will be in a file Train.csv
+• Train.csv contains 5 columns : qid1, qid2, question1, question2, is_duplicate
+• Size of Train.csv - 60MB
+• Number of rows in Train.csv = 404,290
+
