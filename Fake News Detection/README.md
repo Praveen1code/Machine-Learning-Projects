@@ -53,6 +53,7 @@ The intended application of the project is for use in applying visibility weight
 |:-------------------------:|:------------:|
 | SVM                       | 88.42%       |
 | Neural Network with Keras | 92.62%       |
+| Neural Network with Tensorflow |  81.0%   |
 | LSTM                      | 94.53%       |
 
 
