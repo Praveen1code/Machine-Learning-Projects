@@ -16,3 +16,9 @@ better experience to active seekers and writers, and offer more value to both of
 long term.
 
 
+### Problem Statement:
+
+Identify which questions asked on Quora are duplicates of questions
+that have already been asked. - This could be useful to instantly provide answers to questions that
+have already been answered. - The task is to predicting whether a pair of questions are
+duplicates or not.
