@@ -3,11 +3,11 @@
 
 The task at hand is to predict the ratings for a review from 1 to 5 given the train dataset. The dataset consists of different features such as :
 
-- 1 App Version code
-- 2 App Version Name
-- 3 Review Text
-- 4 Review Title
-- 5 The Rating
+- 1. App Version code
+- 2. App Version Name
+- 3. Review Text
+- 4. Review Title
+- 5. The Rating
 
 ## DATA REPRESENTATION TECHNIQUES
 
