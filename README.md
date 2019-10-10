@@ -25,11 +25,11 @@ Weghted F1 Score: 71
 
 ### Xg-Boosting Model: with Tf-Idf:
 
-Weghted F1 Score: 71
+Weghted F1 Score: 66
 
 ### Xg-Boosting Model: with Countvectorizer:
 
-Weghted F1 Score: 71
+Weghted F1 Score: 67
 
 ### Multinomial Naive Bayes Model: with Tf-Idf:
 
@@ -37,4 +37,4 @@ Weghted F1 Score: 71
 
 ### Multinomial Naive Bayes Model: with Countvectorizer:
 
-Weghted F1 Score: 71
+Weghted F1 Score: 70
